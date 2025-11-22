@@ -6,7 +6,7 @@ A modern, animated portfolio website showcasing my projects, skills, and profess
 
 ## 🌐 Live Demo
 
-Visit my portfolio: [Your GitHub Pages URL will appear here after deployment]
+Visit my portfolio: https://jyotirmaya01.github.io/portfolio-Jyotirmaya_Sabat/
 
 ## ✨ Features
 
@@ -94,13 +94,6 @@ Cybersecurity IDS system with 95%+ detection accuracy
 - **GitHub**: [github.com/Jyotirmaya01](https://github.com/Jyotirmaya01)
 - **Email**: sabatanant883@gmail.com
 - **Location**: Kalyan, Maharashtra, India
-
-## 📝 How to Update
-
-1. Edit `index.html` in any text editor
-2. Test changes by opening the file in a browser
-3. Commit and push to GitHub
-4. Changes will automatically deploy to GitHub Pages
 
 ## 🎯 Future Enhancements
 
